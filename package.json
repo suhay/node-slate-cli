@@ -36,7 +36,7 @@
     "klaw": "^3.0.0",
     "klaw-sync": "^6.0.0",
     "live-server": "^1.2.1",
-    "marked": "^0.6.0",
+    "marked": "^0.7.0",
     "minimist": "^1.2.0",
     "sass": "^1.16.0",
     "uglify-js": "^3.4.9"
